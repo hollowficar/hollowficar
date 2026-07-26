@@ -10,5 +10,15 @@ Oi, eu sou o <strong>Haruki</strong>, tenho <strong>19 anos</strong> e passo tan
 
 ## 🧠 Skills :
 
+<p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vegas_Pro_21_logo.svg/250px-Vegas_Pro_21_logo.svg.png?_=20240505083908" width="50">
+
+<img src="LINK2" width="50">
+
+<img src="LINK3" width="50">
+
+</p>
+
 <!--
 **hollowficar/hollowficar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
