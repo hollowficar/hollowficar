@@ -30,7 +30,7 @@ Oi, eu sou o <strong>Haruki</strong>, tenho <strong>19 anos</strong> e passo tan
 
 ## 📫 Onde me encontrar
 <a href="https://www.instagram.com/harukixhk/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAfDHLEBApWX-CTjkTIzClXtIv-pFgjTbgHaKrqL-d-vjsHrqh78EW6r1w&s=10" width="55">
+    <img src="https://img.magnific.com/vetores-premium/icone-do-instagram-de-logotipo-de-distintivo-moderno_578229-124.jpg?semt=ais_hybrid&w=740&q=80" width="55">
 </a>
 <!--
 **hollowficar/hollowficar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
