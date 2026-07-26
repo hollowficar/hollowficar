@@ -28,5 +28,6 @@ Oi, eu sou o <strong>Haruki</strong>, tenho <strong>19 anos</strong> e passo tan
   - 📖 Estudando e aprendendo
   - 🧪 Curioso por natureza, sempre quebrando a cabeça pra entender
 
+## 📫 Onde me encontrar
 <!--
 **hollowficar/hollowficar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
