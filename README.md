@@ -1,5 +1,5 @@
 ## Olá, curioso(a)! <img src="https://cdn.discordapp.com/emojis/1184599007629152336.gif?size=80&quality=lossless" width="40">
-
+***
 <!--
 **hollowficar/hollowficar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
