@@ -18,6 +18,9 @@ Oi, eu sou o <strong>Haruki</strong>, tenho <strong>19 anos</strong> e passo tan
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" width="50">
 
+<img src="https://raw.githubusercontent.com/gist/tracend/3798496/raw/640a549782e952bdbe31fbb41f819fa96240de42/HTML5_SF.svg" width="50">
+
+
 </p>
 
 <!--
